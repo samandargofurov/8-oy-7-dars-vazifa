@@ -29,7 +29,7 @@ function LeftSidebar() {
           <img src={home} alt="" width={18} height={18} /><NavLink to='/'><Span>Home</Span></NavLink>
         </Link>
         <Link>
-          <img src={home} alt="" width={18} height={18} /><NavLink to='/'><Span>Home</Span></NavLink>
+          <Span>Search</Span>
         </Link>
       </Div>
     </>
